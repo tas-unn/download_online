@@ -20,7 +20,7 @@ for link in soup.findAll('a'):
   if (s.count('#seasons') and str(link.text).count('Сезон')):
     seasonlinks.append(s)
     seasonname.append(str(link.text))
-    #break # убрать решётку в начале строки, если необходимо скачать все сезоны, а не только последний
+    break # поставить решётку в начале строки, если необходимо скачать все сезоны, а не только последний
 if len(seasonlinks)==0:
   seasonlinks.append(site+'/videos/s1#seasons')
   seasonname.append('Сезон 1')
