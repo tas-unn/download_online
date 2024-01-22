@@ -12,7 +12,7 @@
 5) Запускаем скрипт, ждём. Создастся файл 1.cmd или файл с названием шоу. Далее 1.cmd
 6) Скачиваем https://github.com/yt-dlp/yt-dlp для своей OS, например для Windows https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe
 7) Скачиваем ffmpeg https://www.gyan.dev/ffmpeg/builds/ нам хватит лишь самого файла ffmpeg.exe
-8) Вместо 6-7 пункта можете напрямую скачать оба файла https://disk.yandex.ru/d/wDzCs4EkfRZn5w обновл
+8) Вместо 6-7 пункта можете напрямую скачать оба файла https://disk.yandex.ru/d/wDzCs4EkfRZn5w 
 9) Помещаем оба скачанных файла в одну папку
 10) Копируем созданный файл 1.cmd в ту же папку.
 11) Если необходимо редактируем файл 1.cmd (блокнотом) чтобы не скачивать все файлы, а лишь необходимые
